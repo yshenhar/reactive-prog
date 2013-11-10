@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite 
+errors="0" failures="0" hostname="YEHORAM01-PC" name="org.scalatest.tools.DiscoverySuite" tests="0" time="0.015" timestamp="2013-11-07T16:57:09">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment">
+    </property>
+    <property name="sun.boot.library.path" value="C:\work\tools\jdk\jre\bin">
+    </property>
+    <property name="java.vm.version" value="22.1-b02"> </property>
+    <property name="java.vm.vendor" value="Oracle Corporation"> </property>
+    <property name="java.vendor.url" value="http://java.oracle.com/">
+    </property>
+    <property name="path.separator" value=";"> </property>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM">
+    </property>
+    <property name="file.encoding.pkg" value="sun.io"> </property>
+    <property name="user.script" value=""> </property>
+    <property name="user.country" value="US"> </property>
+    <property name="sun.java.launcher" value="SUN_STANDARD"> </property>
+    <property name="sun.os.patch.level" value="Service Pack 1"> </property>
+    <property 
+    name="java.vm.specification.name" value="Java Virtual Machine Specification">
+</property>
+    <property 
+    name="user.dir" value="C:\Users\yehoram\Documents\coursera\reactive_programming\assignments\heap-check">
+</property>
+    <property name="java.runtime.version" value="1.7.0_03-b05"> </property>
+    <property 
+    name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment">
+</property>
+    <property name="basedir" value="null"> </property>
+    <property 
+    name="java.endorsed.dirs" value="C:\work\tools\jdk\jre\lib\endorsed">
+</property>
+    <property name="os.arch" value="amd64"> </property>
+    <property 
+    name="java.io.tmpdir" value="C:\Users\yehoram\AppData\Local\Temp\">
+</property>
+    <property name="line.separator" value=" "> </property>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation">
+    </property>
+    <property name="user.variant" value=""> </property>
+    <property name="os.name" value="Windows 7"> </property>
+    <property name="sun.jnu.encoding" value="Cp1252"> </property>
+    <property 
+    name="java.library.path" value="C:\work\tools\jdk\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\JetBrains\IntelliJ IDEA 12.1.4\bin\..\.\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\ThinkPad\Bluetooth Software\;C:\Program Files\ThinkPad\Bluetooth Software\syswow64;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Perforce;C:\Program Files (x86)\Git\cmd;C:\Program Files (x86)\Git\bin;C:\Program Files (x86)\scala\\bin;c:\program files (x86)\jetbrains\intellij idea 12.1.4\jre\jre\bin;.">
+</property>
+    <property 
+    name="java.specification.name" value="Java Platform API Specification">
+</property>
+    <property name="java.class.version" value="51.0"> </property>
+    <property 
+    name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers">
+</property>
+    <property name="os.version" value="6.1"> </property>
+    <property name="user.home" value="C:\Users\yehoram"> </property>
+    <property name="user.timezone" value=""> </property>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob">
+    </property>
+    <property name="file.encoding" value="Cp1252"> </property>
+    <property name="java.specification.version" value="1.7"> </property>
+    <property name="user.name" value="yehoram"> </property>
+    <property 
+    name="java.class.path" value="C:\Users\yehoram\Documents\coursera\reactive_programming\assignments\heap-check\target\test-classes;C:\Users\yehoram\Documents\coursera\reactive_programming\assignments\heap-check\target\classes;C:\Users\yehoram\.m2\repository\org\scala-lang\scala-library\2.10.2\scala-library-2.10.2.jar;C:\Users\yehoram\.m2\repository\org\scalatest\scalatest_2.10\2.0\scalatest_2.10-2.0.jar;C:\Users\yehoram\.m2\repository\org\scala-lang\scala-reflect\2.10.0\scala-reflect-2.10.0.jar;C:\Users\yehoram\.m2\repository\junit\junit\4.10\junit-4.10.jar;C:\Users\yehoram\.m2\repository\org\hamcrest\hamcrest-core\1.1\hamcrest-core-1.1.jar">
+</property>
+    <property name="java.vm.specification.version" value="1.7"> </property>
+    <property name="sun.arch.data.model" value="64"> </property>
+    <property name="java.home" value="C:\work\tools\jdk\jre"> </property>
+    <property 
+    name="sun.java.command" value="org.scalatest.tools.Runner -p C:\Users\yehoram\Documents\coursera\reactive_programming\assignments\heap-check\target\classes C:\Users\yehoram\Documents\coursera\reactive_programming\assignments\heap-check\target\test-classes -o -fWDF C:\Users\yehoram\Documents\coursera\reactive_programming\assignments\heap-check\target\surefire-reports\TestSuite.txt -u C:\Users\yehoram\Documents\coursera\reactive_programming\assignments\heap-check\target\surefire-reports\.">
+</property>
+    <property name="java.specification.vendor" value="Oracle Corporation">
+    </property>
+    <property name="user.language" value="en"> </property>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"> </property>
+    <property name="java.vm.info" value="mixed mode"> </property>
+    <property name="java.version" value="1.7.0_03"> </property>
+    <property 
+    name="java.ext.dirs" value="C:\work\tools\jdk\jre\lib\ext;C:\Windows\Sun\Java\lib\ext">
+</property>
+    <property 
+    name="sun.boot.class.path" value="C:\work\tools\jdk\jre\lib\resources.jar;C:\work\tools\jdk\jre\lib\rt.jar;C:\work\tools\jdk\jre\lib\sunrsasign.jar;C:\work\tools\jdk\jre\lib\jsse.jar;C:\work\tools\jdk\jre\lib\jce.jar;C:\work\tools\jdk\jre\lib\charsets.jar;C:\work\tools\jdk\jre\classes">
+</property>
+    <property name="java.vendor" value="Oracle Corporation"> </property>
+    <property name="file.separator" value="\"> </property>
+    <property 
+    name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/">
+</property>
+    <property name="sun.cpu.endian" value="little"> </property>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"> </property>
+    <property name="sun.desktop" value="windows"> </property>
+    <property name="sun.cpu.isalist" value="amd64"> </property>
+  </properties>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
